@@ -1,2 +1,3 @@
 # ECrypt_analog_arms_control
-Design documentation for the analog electric cryptography circuit and data described in CITE HERE
+Design documentation for the analog information barrier circuit and data described in Warhead Verification with Neutron Beams and an
+Analog Information Barrier.
